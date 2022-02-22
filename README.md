@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @DegenGigaMan
-- 👀 I’m interested in building on Solana
-- 🌱 I’m currently the lead dev at Particles NFT
-- 💞️ I’m looking to collaborate with other devs in this space
+- 👋 @DegenGigaMan here!
+- 🌱 I’m currently the lead dev at Particles on Solana
 - 📫 How to reach me: twitter @DegenGigaMan
 
 <!---
