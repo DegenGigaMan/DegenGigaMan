@@ -1,6 +1,6 @@
-- 👋 @DegenGigaMan here!
-- 🌱 I’m currently the lead dev at Particles on Solana
-- 📫 How to reach me: twitter @DegenGigaMan
+- DegenGigaMan here!
+- I’m currently the lead dev at Particles on Solana
+- Reach out on twitter @DegenGigaMan
 
 <!---
 DegenGigaMan/DegenGigaMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
