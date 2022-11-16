@@ -1,5 +1,5 @@
 - DegenGigaMan here!
-- I’m currently the lead dev at Particles on Solana
+- I’m currently the developing on Solana
 - Reach out on twitter @DegenGigaMan
 
 <!---
